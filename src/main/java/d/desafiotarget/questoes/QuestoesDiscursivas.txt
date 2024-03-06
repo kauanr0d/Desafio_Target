@@ -1,0 +1,16 @@
+
+1 -  91;
+
+3 - 
+a)  1, 3, 5, 7, 9; 
+B) 2, 4, 8, 16, 32, 64, 128;
+C) 0, 1, 4, 9, 16, 25, 36, 49; 
+D)4, 16, 36, 64, 100; 
+E) 1, 1, 2, 3, 5, 8, 13; 
+F) 2,10, 12, 16, 17, 18, 19, 200;
+
+4- Na segunda sala eu ligaria o primeiro interruptor por alguns minutos com o objetivo de deixar a lâmpada aquecer o suficiente,
+depois eu desligaria, e em seguida ligaria o interruptor 2 e iria imediatamente até a primeira sala. 
+A lâmpada que estiver acesa corresponde ao interruptor 2,
+a que estiver quente ao interruptor 1, e a lâmpada que sobrar eu saberei que corresponde ao interruptor 3.
+ 
